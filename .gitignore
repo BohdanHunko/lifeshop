@@ -1,9 +1,0 @@
-# Logs
-logs
-*.log
-
-node_modules
-npm-debug.log
-#public/dist
-src
-.env
